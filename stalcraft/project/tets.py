@@ -27,4 +27,4 @@ finally:
           connection.close()
           print("[INFO] PostgreSQL connection closed")
 
-# Криток лошок
+# Криток лошок, но не конь
