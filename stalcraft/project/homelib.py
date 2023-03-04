@@ -175,3 +175,6 @@ def get_list_items_for_bd(jsonarray) -> dict:
 
 
 
+"""
+Проверка связи для Максима!
+"""
